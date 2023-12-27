@@ -4,6 +4,7 @@
   "description": "This robot finds the weather of a specific city.",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.System.Activities": "[23.10.3]",
     "UiPath.UIAutomation.Activities": "[23.10.8]"
   },
